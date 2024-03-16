@@ -1,0 +1,9 @@
+[dev]
+devserver
+[uat]
+[pre-prod]
+[prod]
+prodserver
+
+[all:vars]
+ansible_user=dvsadmin
